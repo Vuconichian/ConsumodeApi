@@ -1,6 +1,6 @@
-//key=CCD26D1F-131B-4FFB-8BE4-EAA55D91B6DB
+//key=
 
-const apiKey = 'CCD26D1F-131B-4FFB-8BE4-EAA55D91B6DB'
+const apiKey = 'completar con apikey'
 
 const peticion = fetch('https://rest.coinapi.io/v1/exchanges', {
     method: 'GET',
